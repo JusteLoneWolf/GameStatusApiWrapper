@@ -1,0 +1,25 @@
+{
+  "name": "gamestatusapiwrapper",
+  "version": "1.0.2",
+  "description": "A nodejs Wrapper for https://gamestatus.info/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zechaos031/GameStatusApiWrapper.git"
+  },
+  "keywords": [
+    "GameStatus",
+    "crack game",
+    "gameinfo",
+    "gamestatus.info"
+  ],
+  "author": "LoneWolf (aka zechaos)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zechaos031/GameStatusApiWrapper/issues"
+  },
+  "homepage": "https://github.com/zechaos031/GameStatusApiWrapper#readme"
+}
