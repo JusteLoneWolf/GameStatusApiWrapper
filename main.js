@@ -1,7 +1,7 @@
 const {request} = require('./utils')
 
 /**
- * Obtenez la liste des jeux chauds
+ * Get the list of hot games
  * @exemple getHotGames().then((data) => console.log(data))
  * @returns {Promise<Gamelist>}
  */
